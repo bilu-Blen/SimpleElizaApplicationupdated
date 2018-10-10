@@ -1,0 +1,16 @@
+input-
+a problem 
+
+Process
+prompt the user enter his/her question 
+evaluate the question 
+end the process if the user enters "Q" or "I am feeling great"
+split the sentence the user inputed 
+store the splitted sentence in an array 
+replace the i to u, me to u, my to ur, am to are 
+output the question if the user enters sth else 
+
+
+Output- 
+the problem back to the user 
+
